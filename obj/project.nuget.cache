@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZTjLhZiL+Y=",
+  "success": true,
+  "projectFilePath": "J:\\monitoring\\LocalMonitoring\\LocalMonitoring\\LocalMonitoring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piri\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\Piri\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512",
+    "C:\\Users\\Piri\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.12\\system.configuration.configurationmanager.10.0.12.nupkg.sha512",
+    "C:\\Users\\Piri\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.12\\system.diagnostics.eventlog.10.0.12.nupkg.sha512",
+    "C:\\Users\\Piri\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.12\\system.diagnostics.performancecounter.10.0.12.nupkg.sha512",
+    "C:\\Users\\Piri\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.12\\system.security.cryptography.protecteddata.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
